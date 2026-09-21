@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://mahsanhayatlodhi.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Full+Stack+Engineer;SaaS+Product+Builder;IoT+%26+RFID+Solutions+Engineer;CRM+%C2%B7+Custom+ERP+%C2%B7+B2B+Commerce+Developer;AI-Augmented+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Full+Stack+Engineer;SaaS+Product+Builder;IoT+%26+RFID+Solutions+Engineer;CRM+%C2%B7+ERP+%C2%B7+Marketplace+Developer;AI-Augmented+Developer" alt="Typing SVG" />
   </a>
 </p>
 
