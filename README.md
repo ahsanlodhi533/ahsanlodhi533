@@ -43,8 +43,6 @@ I'm a **Full Stack Engineer** from Pakistan who builds enterprise systems and Sa
 ![EF Core](https://img.shields.io/badge/EF%20Core-68217A?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SignalR](https://img.shields.io/badge/SignalR-0078D4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ### Frontend
@@ -52,18 +50,14 @@ I'm a **Full Stack Engineer** from Pakistan who builds enterprise systems and Sa
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 
 ### IoT, RFID & GPS
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 ![RFID](https://img.shields.io/badge/UHF%20RFID-FF6F00?style=for-the-badge&logo=rfid&logoColor=white)
 ![GPS](https://img.shields.io/badge/GPS%20Telematics-2E7D32?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### AI & Automation
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
@@ -86,10 +80,10 @@ I'm a **Full Stack Engineer** from Pakistan who builds enterprise systems and Sa
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🔒 **SantiLock** | My multi-tenant SaaS for phone-installment shops: warn, lock and release devices based on payments | .NET · Android · MQTT · React · Docker |
+| 🔒 **SantiLock** | My multi-tenant SaaS for phone-installment shops: warn, lock and release devices based on payments | .NET · MQTT · React · Docker |
 | 🧾 **Smart Billing Generator** | SaaS for creating bills, invoices and receipts with PDF export and history | .NET · React · TypeScript · SQL Server |
 | 🚨 **ZoneWatch** | Live GPS workforce-safety tracking for petrochemical plants with SOS and geofence alerts | .NET · SignalR · React · Leaflet |
-| 📡 **V-Attendance** | RFID attendance and emergency muster for large industrial sites | .NET · MQTTnet · Kotlin · React |
+| 📡 **V-Attendance** | RFID attendance and emergency muster for large industrial sites | .NET · MQTTnet · React |
 | 🛰️ **Fleet & Asset Tracking** | GPS telematics for rental equipment with a live fleet map | .NET · TCP Sockets · SignalR · React |
 | 🏭 **Smart Warehouse POC** | RFID + pick-to-light warehouse automation with an AI stock assistant | .NET · RFID · Ollama · React |
 
