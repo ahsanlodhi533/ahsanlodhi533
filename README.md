@@ -106,17 +106,4 @@ I'm a **Full Stack Engineer** from Pakistan who builds enterprise systems and Sa
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ahsanlodhi533&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanlodhi533&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ahsanlodhi533&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 <p align="center"><i>Building software that works with the real world. Let's connect! 🤝</i></p>
